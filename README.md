@@ -7,8 +7,8 @@ Mediación de Materiales TyHM 2026
   
 - Coronado, Ignacio - <https://github.com/>
    
-- Alarcón, Rocio - <https://github.com/>
+- Alarcón, Rocio - <https://github.com/rocio-alarcon>
 
-- Bielsa, Franca - <https://github.com/>
+- Bielsa, Franca - <https://github.com/francabielsa-rgb>
 
 - Aguilar, Maite- <https://github.com/aguilarmaite>
