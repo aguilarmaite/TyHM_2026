@@ -5,7 +5,7 @@ Mediación de Materiales TyHM 2026
 
 - Sotelo, Camila - <https://github.com/cami2722s-sys>
   
-- Coronado, Ignacio - <https://github.com/>
+- Coronado, Ignacio - <https://github.com/Igna-Coronado24>
    
 - Alarcón, Rocio - <https://github.com/rocio-alarcon>
 
